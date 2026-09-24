@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohammed-hanzala/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohammed-hanzala/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohammed-hanzala/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohammed-hanzala/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
